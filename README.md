@@ -4,6 +4,11 @@
 
 脚本入口：`generate_images_cli.py`
 
+## 详细教程与示例
+
+- 基于这个脚本的详细使用教程与示例：
+  https://mp.weixin.qq.com/s/Z3UroXCMMHrab8s0CIap9A
+
 ## 功能特性
 
 - 支持 **造相-Z-Image / Z-Image-Turbo**，也支持自定义 `--model`
